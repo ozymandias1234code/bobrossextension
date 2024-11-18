@@ -1,6 +1,6 @@
 # Bob Ross Chrome Extension
 
-This is a Chrome Extension that replaces all images on YouTube.com with pictures of Bob Ross when enabled. 
+This is a Chrome Extension that replaces all images on YouTube.com with pictures of Bob Ross when enabled. Built it for a tutorial.
 
 ## Usage
 
